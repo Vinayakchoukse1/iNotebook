@@ -1,4 +1,4 @@
-# iNotebook <img src="/public/images/artichoke.ico" height="50" width="50">
+# iNotebook <img src="/src/Notebook.png" height="50" width="50">
 
 A website for managing personal notes on the cloud using React and node.js<br>
 
