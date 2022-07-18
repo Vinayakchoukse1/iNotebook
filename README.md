@@ -14,12 +14,12 @@ A website for managing personal notes on the cloud using React and node.js<br>
 `git clone https://github.com/Vinayakchoukse1/iNotebook.git`<br>
 `cd iNotebook`<br>
 
-=> Starting Frontend
+=> Starting Frontend <br>
 `npm install`<br>
 `npm start`<br>
-`go to localhost:3000`
+`go to localhost:3000` <br>
 
-=> Starting Backend
+=> Starting Backend <br>
 `cd backend`<br>
 `npm install`<br>
 `node index.js`<br>
