@@ -11,16 +11,23 @@ A website for managing personal notes on the cloud using React and node.js<br>
 
 # Quick Start 🚀
 
-`git clone https://github.com/Vinayakchoukse1/tvChat.git`<br>
-`cd tvChat`<br>
+`git clone https://github.com/Vinayakchoukse1/iNotebook.git`<br>
+`cd iNotebook`<br>
+
+=> Starting Frontend
 `npm install`<br>
-`npm start or nodemon server.js`<br>
+`npm start`<br>
 `go to localhost:3000`
+
+=> Starting Backend
+`cd backend`<br>
+`npm install`<br>
+`node index.js`<br>
 
 # What I Learned 🧠
 
 - Node.js basics (async programming, callbacks, anonymous and arrow functions, server side stuff, imports, modules, express, http, path, socket.io)
-- Web Sockets
+- React basics (router , class based components and function based components)
 - HTTP/HTTPS
 - DOM manipulation, EventListeners, Forms
 - How to use CSS Framework (Bulma)
